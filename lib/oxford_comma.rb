@@ -3,14 +3,6 @@ def oxford_comma(array)
   return array
   
 
-
-  array.each_with_index {|name, index|
-    if index == array.length - 1 
-      
-      
-    
-    
-  }
 end
 
 poop = ["a", "b", "c"]
