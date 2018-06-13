@@ -13,3 +13,4 @@ def oxford_comma(array)
 end
 
 poop = ['a', 'b', 'c']
+puts oxford_comma(poop)
