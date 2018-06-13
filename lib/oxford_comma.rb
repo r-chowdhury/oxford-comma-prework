@@ -10,4 +10,6 @@ def oxford_comma(array)
     
     
 #   }
-# end
+end
+
+poop = ['a', 'b', 'c']
