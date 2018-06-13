@@ -1,3 +1,12 @@
 def oxford_comma(array)
-  array.each_with_index
-end
+  array.join(" ,")
+  
+
+
+#   array.each_with_index {|name, index|
+#     if index == array.length - 2 
+      
+    
+    
+#   }
+# end
