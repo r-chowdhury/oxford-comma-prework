@@ -5,7 +5,8 @@ def oxford_comma(array)
 
 
   array.each_with_index {|name, index|
-    if index == array.length - 2 
+    if index == array.length - 1 
+      
       
     
     
