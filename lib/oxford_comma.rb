@@ -4,12 +4,12 @@ def oxford_comma(array)
   
 
 
-#   array.each_with_index {|name, index|
-#     if index == array.length - 2 
+  array.each_with_index {|name, index|
+    if index == array.length - 2 
       
     
     
-#   }
+  }
 end
 
 poop = ["a", "b", "c"]
